@@ -54,8 +54,7 @@
 <!-- - Online: locally the app is instantiated via terminal by calling the Flask app. On Heroku, the app is wrapped with the web service gunicorn to initiate the Flask server. -->
 
 -----------------------------
-## In main.jsx
-// <div className="img-mask" onClick={this.cropARegion}>
-//     <div className="dot-mask"></div>
-//     <div className="rect-mask"></div>
-// </div>
+
+## Attribution
+Otenim/GLCIC-PyTorch 
+oeway/pytorch-deform-conv
