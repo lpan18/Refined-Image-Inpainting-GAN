@@ -1,4 +1,4 @@
-# Image Inpainting Demo
+# Refined Image Inpainting
 ### Authors: Lynn Duan, Lei Pan, Jenna Zhang, Jayleen Zhou
 
 -----------------------------
